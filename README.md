@@ -24,3 +24,16 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 **Description:**
 1. Use R or Python or perform this task.
 2. Data can be found at https://bit.ly/3cGyP8j
+
+===============**Task 3**===============
+
+**Exploratory Data Analysis – Retail (Level – Beginner)**
+
+**Task:**
+Perform 'Exploratory Data Analysis' on dataset 'SampleSuperstore As a business manager, try to find out the weak areas where you can work to make more profit. What all business problems you can derive by exploring the data?
+
+**Description:**
+1. As a business manager, try to find out the weak areas where you can work to make more profit.
+2. What all business problems you can derive by exploring the data?
+3. You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
+4. Dataset: https:/bit.ly/3i4rbWI
